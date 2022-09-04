@@ -1,5 +1,3 @@
-![Logo](/logo.png width="100px" height="90px")
-
 <h1>Rail Assist</h1>
 
 <h3>WHAT IS RAIL ASSIST ? </h3>
