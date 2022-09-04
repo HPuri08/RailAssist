@@ -1,3 +1,5 @@
+![Github Logo](logo.png)
+
 <h1>Rail Assist</h1>
 
 <h3>WHAT IS RAIL ASSIST ? </h3>
