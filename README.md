@@ -18,8 +18,8 @@ SOCIAL WELFARE
 <h3>LIVE PROJECT LINK</h3>
 
 <h3>TEAM DETAILS</h3>
-<h2>Team Name : SOCIAL</h2>
-<h2>Tean Number : 3</h2>
+<b>Team Name : SOCIAL</b>
+<b>Team Number : 3</b>
 
 <table>
   <tr>
