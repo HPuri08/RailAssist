@@ -44,7 +44,8 @@ SOCIAL WELFARE
     <td>DCH-8039</td>
   </tr>
   
-  <h3>MORE DETAIL ABOUT THE PROJECT</h3>
+</table>
+<h3>MORE DETAIL ABOUT THE PROJECT</h3>
   It software solution to enable rail users with disabilities access public transportation in the same manner as the general travelling public.
   
   REVENUE MODEL:
@@ -52,7 +53,5 @@ SOCIAL WELFARE
     <li>Collaborating with cab/taxies companies like OLA/Uber</li>
     <li>Advertisments</li>
     <li>A major part of the expenses will be covered by fundraising</li>
-    <li></li>
-    <li></li>
+    
   </ul>
-</table>
