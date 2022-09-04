@@ -1,4 +1,4 @@
-![Github Logo](/logo.png=250x250)
+![Logo](/logo.png)
 
 <h1>Rail Assist</h1>
 
